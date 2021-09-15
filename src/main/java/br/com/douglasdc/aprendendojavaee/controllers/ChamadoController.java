@@ -70,7 +70,7 @@ public class ChamadoController {
     @Path("/")
     public Response update(Chamado chamado){
         System.out.println(chamado.toString()); 
-        return Response.status(Response.Status.OK).build();
+        return Response.status(Response.Status.NO_CONTENT).build();
     }
     
     @DELETE
