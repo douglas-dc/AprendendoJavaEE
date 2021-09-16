@@ -70,5 +70,5 @@ angular.module("HelpApp", [])
             };
 
             self.activate();
-        });
+});
 
