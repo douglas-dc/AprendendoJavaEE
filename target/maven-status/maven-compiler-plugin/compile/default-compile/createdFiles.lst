@@ -1,5 +1,8 @@
+br\com\douglasdc\aprendendojavaee\infra\ConexaoPostgresJDBC.class
+br\com\douglasdc\aprendendojavaee\data\Chamado.class
+br\com\douglasdc\aprendendojavaee\data\Status.class
 br\com\douglasdc\aprendendojavaee\controllers\ChamadoController.class
 br\com\douglasdc\aprendendojavaee\controllers\HelloController.class
 br\com\douglasdc\aprendendojavaee\MyApplication.class
-br\com\douglasdc\aprendendojavaee\data\Chamado.class
-br\com\douglasdc\aprendendojavaee\data\Status.class
+br\com\douglasdc\aprendendojavaee\data\ChamadoDAO.class
+br\com\douglasdc\aprendendojavaee\infra\ConexaoJDBC.class
