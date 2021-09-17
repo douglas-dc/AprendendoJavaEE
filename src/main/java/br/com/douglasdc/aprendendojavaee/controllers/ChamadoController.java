@@ -1,8 +1,8 @@
 package br.com.douglasdc.aprendendojavaee.controllers;
 
 import br.com.douglasdc.aprendendojavaee.data.Chamado;
-import br.com.douglasdc.aprendendojavaee.data.ChamadoDAO;
-import br.com.douglasdc.aprendendojavaee.data.Status;
+import br.com.douglasdc.aprendendojavaee.jdbc.dao.ChamadoDAO;
+import br.com.douglasdc.aprendendojavaee.enumerado.chamado.Status;
 import java.sql.SQLException;
 import java.util.List;
 import java.util.logging.Level;
