@@ -1,8 +1,14 @@
-C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\data\Status.java
 C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\infra\ConexaoJDBC.java
+C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\enumerado\chamado\Status.java
 C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\controllers\ChamadoController.java
+C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\business\UsuarioBus.java
+C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\infra\HibernateUtil.java
 C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\MyApplication.java
-C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\data\ChamadoDAO.java
-C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\controllers\HelloController.java
+C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\enumerado\chamado\Tipo.java
 C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\data\Chamado.java
 C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\infra\ConexaoPostgresJDBC.java
+C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\enumerado\usuario\Tipo.java
+C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\business\ChamadoBus.java
+C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\data\Usuario.java
+C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\jdbc\dao\ChamadoDAO.java
+C:\Users\douglas.casagrande\CURSOS\Java EE\AprendendoJavaEE\src\main\java\br\com\douglasdc\aprendendojavaee\controllers\HelloController.java

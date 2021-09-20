@@ -1,8 +1,11 @@
-br\com\douglasdc\aprendendojavaee\infra\ConexaoPostgresJDBC.class
+br\com\douglasdc\aprendendojavaee\business\ChamadoBus.class
 br\com\douglasdc\aprendendojavaee\data\Chamado.class
-br\com\douglasdc\aprendendojavaee\data\Status.class
 br\com\douglasdc\aprendendojavaee\controllers\ChamadoController.class
 br\com\douglasdc\aprendendojavaee\controllers\HelloController.class
+br\com\douglasdc\aprendendojavaee\enumerado\usuario\Tipo.class
+br\com\douglasdc\aprendendojavaee\business\UsuarioBus.class
+br\com\douglasdc\aprendendojavaee\enumerado\chamado\Tipo.class
+br\com\douglasdc\aprendendojavaee\enumerado\chamado\Status.class
+br\com\douglasdc\aprendendojavaee\infra\HibernateUtil.class
 br\com\douglasdc\aprendendojavaee\MyApplication.class
-br\com\douglasdc\aprendendojavaee\data\ChamadoDAO.class
-br\com\douglasdc\aprendendojavaee\infra\ConexaoJDBC.class
+br\com\douglasdc\aprendendojavaee\data\Usuario.class

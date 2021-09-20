@@ -2,7 +2,7 @@ package br.com.douglasdc.aprendendojavaee.data;
 
 import br.com.douglasdc.aprendendojavaee.enumerado.chamado.Status;
 import br.com.douglasdc.aprendendojavaee.enumerado.chamado.Tipo;
-import java.sql.Date;
+import java.util.Date;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
