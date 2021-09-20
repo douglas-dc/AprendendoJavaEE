@@ -1,6 +1,6 @@
 package br.com.douglasdc.aprendendojavaee.data;
 
-import br.com.douglasdc.aprendendojavaee.enumerado.chamado.Tipo;
+import br.com.douglasdc.aprendendojavaee.enumerado.usuario.Tipo;
 import java.io.Serializable;
 import java.util.Date;
 import javax.persistence.Column;
@@ -13,24 +13,26 @@ import javax.persistence.Id;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
-/**
- *
- * @author rai.martins
- */
 @Entity
-public class Usuario implements Serializable{
-    private final long SerialVersionUID = 1l;
+public class Usuario implements Serializable {
+    private final long SerialVersionUID = 1L;
+    
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
+    
     @Column(length = 64, nullable = false, unique = true)
     private String login;
+    
     @Column(length = 64, nullable = false)
     private String senha;
+    
     @Column(length = 64, nullable = false)
     private String nome;
+    
     @Column(nullable = false)
     private boolean ativo;
+    
     @Temporal(TemporalType.TIMESTAMP)
     @Column(name = "data_registo", nullable = false, updatable = false)
     private Date date;
@@ -99,7 +101,4 @@ public class Usuario implements Serializable{
     public String toString() {
         return "Usuario{" + "id=" + id + ", login=" + login + ", nome=" + nome + ", ativo=" + ativo + ", date=" + date + ", tipo=" + tipo + '}';
     }
-    
-    
-    
 }
